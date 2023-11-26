@@ -1,11 +1,16 @@
 # app-dev
 my first repository
-## Mt Favorite movie/series
+## My Favorite movie/series
 
 ### Game of Thrones
 
 **Must Watch!!**
 *10/10*
+
+watched?
+
+- [ ] no
+- [x] yes
 
 > based on George R.R. Martin's book series 
 >> A Song of Ice and Fire.
@@ -38,6 +43,14 @@ Resolution
 
 ---
 
+| House | Sigil |
+| ----- | ------- |
+| House Stark| Direwolf |
+| House Lannister| Lion|
+| House Targaryen| Three-headed Dragon |
+| House Greyjoy | Kraken |
+
+
 [Trailer link](https://www.youtube.com/watch?v=KPLWWIOCOOQ)
 
 
@@ -45,4 +58,19 @@ Resolution
    `
 const movie = 10;
 `
+```
+{
+  "firstName": "Daenerys",
+  "lastName": "Targaryen",
+  "age": 23 
+}
+```
+~~MOVIE~~
 
+ ^Game of Thrones^ 
+
+~Game of Thrones~
+
+<sup>Game of Thrones</sup>
+
+<sub>Game of Thrones</sub>
